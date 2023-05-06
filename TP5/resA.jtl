@@ -1,0 +1,110 @@
+1681076682707,115,AddPerson,201,Created,Steady-Workload 1-1,text,true,1121,1,1,115
+1681076683012,35,DeletePerson,204,No Content,Steady-Workload 1-1,text,true,2052,1,1,0
+1681076683408,29,SearchPersonByName,200,OK,Steady-Workload 1-1,text,true,613,1,1,29
+1681076683697,15,SearchPersonByUUID,200,OK,Steady-Workload 1-1,text,true,206,1,1,15
+1681076684100,215,EditPersonStatic,200,OK,Steady-Workload 1-1,text,true,1020,1,1,215
+1681076684591,38,EditPersonByUUID,201,Created,Steady-Workload 1-1,text,true,1025,1,1,38
+1681076685001,10,GetEncounterOfPatient,200,OK,Steady-Workload 1-1,text,true,206,2,2,10
+1681076685160,54,AddPerson,201,Created,Steady-Workload 1-2,text,true,1121,2,2,54
+1681076685376,96,GetEncounterByType ,200,OK,Steady-Workload 1-1,text,true,412,2,2,96
+1681076685461,35,DeletePerson,204,No Content,Steady-Workload 1-2,text,true,2052,2,2,0
+1681076685634,33,GetConceptIsYes,200,OK,Steady-Workload 1-1,text,true,595,2,2,33
+1681076685731,37,GetConceptByName,200,OK,Steady-Workload 1-1,text,true,407,2,2,37
+1681076685841,21,SearchPersonByName,200,OK,Steady-Workload 1-2,text,true,613,2,2,21
+1681076686066,8,GetObservationOfPatient,200,OK,Steady-Workload 1-1,text,true,206,2,2,8
+1681076686199,15,SearchPersonByUUID,200,OK,Steady-Workload 1-2,text,true,206,2,2,15
+1681076686509,52,AddPerson,201,Created,Steady-Workload 1-1,text,true,1121,2,2,52
+1681076686520,162,EditPersonStatic,200,OK,Steady-Workload 1-2,text,true,1020,2,2,162
+1681076686897,33,DeletePerson,204,No Content,Steady-Workload 1-1,text,true,2052,2,2,0
+1681076686897,52,EditPersonByUUID,201,Created,Steady-Workload 1-2,text,true,1025,2,2,52
+1681076687137,24,SearchPersonByName,200,OK,Steady-Workload 1-1,text,true,611,2,2,24
+1681076687152,16,GetEncounterOfPatient,200,OK,Steady-Workload 1-2,text,true,3177,2,2,16
+1681076687313,8,GetEncounterByType ,200,OK,Steady-Workload 1-2,text,true,420,2,2,8
+1681076687385,14,SearchPersonByUUID,200,OK,Steady-Workload 1-1,text,true,206,2,2,14
+1681076687435,26,GetConceptIsYes,200,OK,Steady-Workload 1-2,text,true,595,2,2,25
+1681076687581,42,GetConceptByName,200,OK,Steady-Workload 1-2,text,true,404,2,2,42
+1681076687726,135,EditPersonStatic,200,OK,Steady-Workload 1-1,text,true,1020,2,2,135
+1681076687937,38,GetObservationOfPatient,200,OK,Steady-Workload 1-2,text,true,11368,2,2,38
+1681076688107,58,EditPersonByUUID,201,Created,Steady-Workload 1-1,text,true,1025,2,2,58
+1681076688291,45,AddPerson,201,Created,Steady-Workload 1-2,text,true,1121,2,2,45
+1681076688558,16,GetEncounterOfPatient,200,OK,Steady-Workload 1-1,text,true,4451,2,2,16
+1681076688767,33,DeletePerson,204,No Content,Steady-Workload 1-2,text,true,2052,2,2,0
+1681076689026,9,GetEncounterByType ,200,OK,Steady-Workload 1-1,text,true,411,2,2,9
+1681076689199,23,SearchPersonByName,200,OK,Steady-Workload 1-2,text,true,611,2,2,23
+1681076689328,30,GetConceptIsYes,200,OK,Steady-Workload 1-1,text,true,595,2,2,30
+1681076689487,17,SearchPersonByUUID,200,OK,Steady-Workload 1-2,text,true,206,2,2,17
+1681076689697,30,GetConceptByName,200,OK,Steady-Workload 1-1,text,true,408,2,2,30
+1681076689962,139,EditPersonStatic,200,OK,Steady-Workload 1-2,text,true,1020,2,2,139
+1681076690110,36,GetObservationOfPatient,200,OK,Steady-Workload 1-1,text,true,11366,2,2,36
+1681076690348,47,AddPerson,201,Created,Steady-Workload 1-1,text,true,1121,2,2,47
+1681076690509,35,EditPersonByUUID,201,Created,Steady-Workload 1-2,text,true,1025,2,2,35
+1681076690647,34,DeletePerson,204,No Content,Steady-Workload 1-1,text,true,2052,2,2,0
+1681076690853,16,GetEncounterOfPatient,200,OK,Steady-Workload 1-2,text,true,2753,2,2,16
+1681076690887,24,SearchPersonByName,200,OK,Steady-Workload 1-1,text,true,618,2,2,24
+1681076691128,88,GetEncounterByType ,200,OK,Steady-Workload 1-2,text,true,412,2,2,88
+1681076691300,15,SearchPersonByUUID,200,OK,Steady-Workload 1-1,text,true,206,2,2,15
+1681076691429,26,GetConceptIsYes,200,OK,Steady-Workload 1-2,text,true,595,2,2,26
+1681076691765,35,GetConceptByName,200,OK,Steady-Workload 1-2,text,true,431,2,2,35
+1681076691698,130,EditPersonStatic,200,OK,Steady-Workload 1-1,text,true,1020,2,2,130
+1681076692072,30,GetObservationOfPatient,200,OK,Steady-Workload 1-2,text,true,11428,2,2,30
+1681076692145,38,EditPersonByUUID,201,Created,Steady-Workload 1-1,text,true,1025,2,2,38
+1681076692380,55,AddPerson,201,Created,Steady-Workload 1-2,text,true,1121,2,2,55
+1681076692456,29,GetEncounterOfPatient,200,OK,Steady-Workload 1-1,text,true,4875,2,2,29
+1681076692722,38,DeletePerson,204,No Content,Steady-Workload 1-2,text,true,2052,2,2,0
+1681076692815,8,GetEncounterByType ,200,OK,Steady-Workload 1-1,text,true,412,2,2,8
+1681076693076,17,SearchPersonByName,200,OK,Steady-Workload 1-2,text,true,618,2,2,17
+1681076693142,23,GetConceptIsYes,200,OK,Steady-Workload 1-1,text,true,595,2,2,23
+1681076693327,30,GetConceptByName,200,OK,Steady-Workload 1-1,text,true,1057,2,2,30
+1681076693462,10,SearchPersonByUUID,200,OK,Steady-Workload 1-2,text,true,206,2,2,10
+1681076693665,31,GetObservationOfPatient,200,OK,Steady-Workload 1-1,text,true,11482,2,2,31
+1681076693782,123,EditPersonStatic,200,OK,Steady-Workload 1-2,text,true,1020,2,2,123
+1681076694074,42,AddPerson,201,Created,Steady-Workload 1-1,text,true,1121,2,2,42
+1681076694328,34,EditPersonByUUID,201,Created,Steady-Workload 1-2,text,true,1025,2,2,34
+1681076694390,28,DeletePerson,204,No Content,Steady-Workload 1-1,text,true,2052,2,2,0
+1681076694518,17,SearchPersonByName,200,OK,Steady-Workload 1-1,text,true,408,2,2,17
+1681076694720,17,GetEncounterOfPatient,200,OK,Steady-Workload 1-2,text,true,5299,2,2,17
+1681076694839,11,SearchPersonByUUID,200,OK,Steady-Workload 1-1,text,true,206,2,2,11
+1681076695057,7,GetEncounterByType ,200,OK,Steady-Workload 1-2,text,true,411,2,2,7
+1681076695175,122,EditPersonStatic,200,OK,Steady-Workload 1-1,text,true,1020,2,2,122
+1681076695367,33,GetConceptIsYes,200,OK,Steady-Workload 1-2,text,true,595,2,2,33
+1681076695599,36,EditPersonByUUID,201,Created,Steady-Workload 1-1,text,true,1025,2,2,36
+1681076695678,30,GetConceptByName,200,OK,Steady-Workload 1-2,text,true,1057,2,2,30
+1681076695867,15,GetEncounterOfPatient,200,OK,Steady-Workload 1-1,text,true,4451,2,2,15
+1681076696025,35,GetObservationOfPatient,200,OK,Steady-Workload 1-2,text,true,11535,2,2,35
+1681076696196,86,GetEncounterByType ,200,OK,Steady-Workload 1-1,text,true,413,2,2,86
+1681076696383,43,AddPerson,201,Created,Steady-Workload 1-2,text,true,1121,2,2,43
+1681076696744,27,GetConceptIsYes,200,OK,Steady-Workload 1-1,text,true,595,2,2,27
+1681076696783,30,DeletePerson,204,No Content,Steady-Workload 1-2,text,true,2052,2,2,0
+1681076697003,17,SearchPersonByName,200,OK,Steady-Workload 1-2,text,true,409,2,2,17
+1681076697126,27,GetConceptByName,200,OK,Steady-Workload 1-1,text,true,1057,2,2,27
+1681076697569,12,SearchPersonByUUID,200,OK,Steady-Workload 1-2,text,true,206,2,2,11
+1681076697554,32,GetObservationOfPatient,200,OK,Steady-Workload 1-1,text,true,11369,2,2,32
+1681076697776,122,EditPersonStatic,200,OK,Steady-Workload 1-2,text,true,1020,2,2,122
+1681076697933,44,AddPerson,201,Created,Steady-Workload 1-1,text,true,1121,2,2,43
+1681076698158,35,EditPersonByUUID,201,Created,Steady-Workload 1-2,text,true,1025,2,2,35
+1681076698228,29,DeletePerson,204,No Content,Steady-Workload 1-1,text,true,2052,2,2,0
+1681076698365,26,SearchPersonByName,200,OK,Steady-Workload 1-1,text,true,1221,2,2,26
+1681076698389,14,GetEncounterOfPatient,200,OK,Steady-Workload 1-2,text,true,4451,2,2,14
+1681076698755,8,GetEncounterByType ,200,OK,Steady-Workload 1-2,text,true,409,2,2,7
+1681076698792,13,SearchPersonByUUID,200,OK,Steady-Workload 1-1,text,true,206,2,2,12
+1681076698998,134,EditPersonStatic,200,OK,Steady-Workload 1-1,text,true,1020,2,2,134
+1681076699148,22,GetConceptIsYes,200,OK,Steady-Workload 1-2,text,true,595,2,2,22
+1681076699393,35,EditPersonByUUID,201,Created,Steady-Workload 1-1,text,true,1025,2,2,35
+1681076699528,29,GetConceptByName,200,OK,Steady-Workload 1-2,text,true,1057,2,2,29
+1681076699691,9,GetEncounterOfPatient,200,OK,Steady-Workload 1-1,text,true,206,2,2,9
+1681076699855,31,GetObservationOfPatient,200,OK,Steady-Workload 1-2,text,true,11485,2,2,31
+1681076699936,7,GetEncounterByType ,200,OK,Steady-Workload 1-1,text,true,412,2,2,7
+1681076700234,22,GetConceptIsYes,200,OK,Steady-Workload 1-1,text,true,595,2,2,22
+1681076700308,41,AddPerson,201,Created,Steady-Workload 1-2,text,true,1121,2,2,41
+1681076700462,29,GetConceptByName,200,OK,Steady-Workload 1-1,text,true,884,2,2,29
+1681076700707,32,DeletePerson,204,No Content,Steady-Workload 1-2,text,true,2052,2,2,0
+1681076700745,6,GetObservationOfPatient,200,OK,Steady-Workload 1-1,text,true,206,2,2,6
+1681076701178,21,SearchPersonByName,200,OK,Steady-Workload 1-2,text,true,1221,1,1,21
+1681076701647,13,SearchPersonByUUID,200,OK,Steady-Workload 1-2,text,true,206,1,1,13
+1681076702013,123,EditPersonStatic,200,OK,Steady-Workload 1-2,text,true,1020,1,1,123
+1681076702494,35,EditPersonByUUID,201,Created,Steady-Workload 1-2,text,true,1024,1,1,35
+1681076702944,15,GetEncounterOfPatient,200,OK,Steady-Workload 1-2,text,true,2753,1,1,15
+1681076703345,81,GetEncounterByType ,200,OK,Steady-Workload 1-2,text,true,420,1,1,81
+1681076703694,22,GetConceptIsYes,200,OK,Steady-Workload 1-2,text,true,595,1,1,22
+1681076704094,38,GetConceptByName,200,OK,Steady-Workload 1-2,text,true,884,1,1,38
+1681076704478,27,GetObservationOfPatient,200,OK,Steady-Workload 1-2,text,true,11416,1,1,27
